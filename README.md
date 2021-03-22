@@ -1,15 +1,7 @@
 # AboveMonroeBot
 
-Needs:
+Requirements: python3, chromium-chromedriver, readsb/tar1090 (https://github.com/wiedehopf/readsb)
 
-python3
-
-pip3 install emoji-country-flag Pillow selenium twython
-
-Mictronics dump1090: https://github.com/Mictronics/dump1090
-
-aircrafts.json, operators.json: https://www.mictronics.de/aircraft-database/export.php
-
-chromedriver: https://sites.google.com/a/chromium.org/chromedriver/
+Python modules: emoji-country-flag Pillow selenium twython
 
 Modified from: https://github.com/kevinabrandon/AboveTustin
