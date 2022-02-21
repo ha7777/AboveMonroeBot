@@ -30,8 +30,8 @@ cropWidth = 1400
 cropHeight = 900
 defaultHashtags = " #AboveMonroe #ADSB"
 
-lLatitude = 40.3163
-lLongitude = -74.41
+lLatitude = xx.xx
+lLongitude = xx.xx
 
 tConsumerKey = ""
 tConsumerSecret = ""
